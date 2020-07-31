@@ -1,6 +1,6 @@
 # foodybybasel
 
-A new Flutter project.
+a demo Food deliver app built with Flutter
 
 ## Getting Started
 
